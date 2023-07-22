@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332087655661",
+    "project_id": "rmdssoe-sos-1",
+    "storage_bucket": "rmdssoe-sos-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332087655661:android:38e3115f6ada692ae820e4",
+        "android_client_info": {
+          "package_name": "com.rmdssoe.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332087655661-3gm3p7mojbdeqjpasup32t7osvq6iikq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKb0ZLstO-O2RGfDy3IdSFWuKCYo17is4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332087655661-3gm3p7mojbdeqjpasup32t7osvq6iikq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
