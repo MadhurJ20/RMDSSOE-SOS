@@ -132,6 +132,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @SuppressLint("Range")
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -146,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
                     if (c.moveToFirst()) {
 
                         String id = c.getString(c.getColumnIndexOrThrow(ContactsContract.Contacts._ID));
-                        String hasPhone = c.getString(c.getColumnIndex(ContactsContract.Contacts.HAS_PHONE_NUMBER));
+                        @SuppressLint("Range") String hasPhone = c.getString(c.getColumnIndex(ContactsContract.Contacts.HAS_PHONE_NUMBER));
                         String phone = null;
                         try {
                             if (hasPhone.equalsIgnoreCase("1")) {
