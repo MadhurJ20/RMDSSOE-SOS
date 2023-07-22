@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RMDSSOE SOS</string>
+    <string name="new_text">Welcome To RMDSSOE SOS App. To report danger, shake your phone 3 times.</string>
+    <string name="add_emergency_contact">Add Emergency Contact</string>
+</resources>
