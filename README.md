@@ -3,6 +3,8 @@ A SOS app I created for my University to promote Women Safety.
 
 It's a Java based Android App developed in Android Studio.
 
+<img src="https://github.com/MadhurJ20/RMDSSOE-SOS/assets/84721727/c785a001-4e4b-4335-9cd4-92ec8f1ccf51" alt="RMDSSOE SOS Logo" width="250"/>
+
 # Setup
 1. Download & install Android Studio if you haven't yet from https://developer.android.com/studio
 2. Download or Clone the repository.
