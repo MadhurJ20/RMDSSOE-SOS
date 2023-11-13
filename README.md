@@ -6,7 +6,7 @@ It's a Java based Android App developed in Android Studio.
 <img src="https://github.com/MadhurJ20/RMDSSOE-SOS/assets/84721727/c785a001-4e4b-4335-9cd4-92ec8f1ccf51" alt="RMDSSOE SOS Logo" width="250"/>
 
 # Setup
-1. Download & install Android Studio if you haven't yet from https://developer.android.com/studio
+1. If you haven't already, download & install [Android Studio](https://developer.android.com/studio).
 2. Download or Clone the repository.
 3. Open project in Android Studio.
 4. Connect your device to your PC via USB/Wireless Debugging.
